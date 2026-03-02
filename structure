@@ -1,0 +1,8 @@
+
+## Structure
+- `expenses`: list to store expenses
+- `add_expense()`: adds a new expense
+- `view_expenses()`: displays all expenses
+- `calculate_total()`: calculates total expenses
+- `delete_expense()`: deletes an expense
+- `main()`: main loop for user interaction
