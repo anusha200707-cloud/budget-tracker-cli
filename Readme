@@ -1,0 +1,24 @@
+A simple command-line interface (CLI) to manage your expenses.
+
+#Features
+- Add new expenses
+- View all expenses
+- Calculate total spending
+- Delete expenses
+
+#Usage
+1. Run `python expense_tracker.py` in your terminal.
+2. Choose an option:
+    - 1: Add Expense
+    - 2: View Expenses
+    - 3: Total Spending
+    - 4: Delete Expense
+    - 5: Exit
+
+#Requirements
+- Python 3.x
+
+## Example
+Enter Expense: Food
+Amount: ₹200
+Expense Added Successfully!
